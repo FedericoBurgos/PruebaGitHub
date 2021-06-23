@@ -1,0 +1,4 @@
+Cambio en el title con descripcion adecuada a la pagina.
+Keywords utilizadas: Carnes,Panes,Congelados,Delivery,Contacto,Ubicacion,Combos,Productos.
+Titulos en footer seccion de instagram y whatsapp para que sea mas practico y entendible.
+Protocolo Open Graph
